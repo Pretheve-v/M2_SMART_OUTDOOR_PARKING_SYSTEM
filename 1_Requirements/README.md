@@ -1,1 +1,3 @@
-
+Smart parking development implies an IoT-based system that sends data about free and occupied parking places via web/mobile application. The IoT-device, including sensors and microcontrollers, is located in each parking place. The user receives a live update about the availability of all parking places and chooses the best one.
+In order to investigate technologies behind the smart parking solution, we implemented an internal research project. The main idea was the creation of smart parking using the Internet of Things and ultrasonic sensors, where available parking places could be displayed in a web application
+This project is aimed to create a system that helps people with personal vehicles to find for parking easily at selected areas.
